@@ -1,4 +1,6 @@
 s is a linux syllabus for learning all linux operational command
 shell scripts 
 programming in c and c++
-programming microservies with C and C++
+programming microservies with C and C+
+this is the modification 
+The file is modified+
